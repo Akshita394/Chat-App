@@ -1,2 +1,2 @@
 # Chat-App
-to interface for chatting 
+an interface for chatting b/w to people 
